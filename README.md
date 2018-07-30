@@ -21,6 +21,7 @@ Sebagai contoh, berikut ini membuat aplikasi Express bernama myapp. Aplikasi ini
 lalu install depedencies
 
 > cd myapp
+
 > npm install
 
 Lalu jika sudah berhasil menginstall, jalankan dengan menggunakan perintah
