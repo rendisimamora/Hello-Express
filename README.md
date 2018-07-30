@@ -30,4 +30,29 @@ Lalu jika sudah berhasil menginstall, jalankan dengan menggunakan perintah
 
 Lalu muat http: // localhost: 3000 / di browser Anda untuk mengakses website anda.
 
+Aplikasi yang dibuat memiliki struktur direktori berikut:
+
+```
+.
+├── app.js
+├── bin
+│   └── www
+├── package.json
+├── public
+│   ├── images
+│   ├── javascripts
+│   └── stylesheets
+│       └── style.css
+├── routes
+│   ├── index.js
+│   └── users.js
+└── views
+    ├── error.ejs
+    ├── index.ejs
+    └── layout.ejs
+
+7 directories, 9 files
+
+```
+
 Selamat Mencoba.
